@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1477924907021" transient="false">
+	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="org.jkiss.dbeaver.ext.generic.feature" version="2.1.30" url="features/org.jkiss.dbeaver.ext.generic.feature_2.1.30/" plugin-identifier="org.jkiss.dbeaver.ext.generic">
+		</feature>
+		<feature id="org.jkiss.dbeaver.ext.mysql.feature" version="2.1.29" url="features/org.jkiss.dbeaver.ext.mysql.feature_2.1.29/" plugin-identifier="org.jkiss.dbeaver.ext.mysql">
+		</feature>
+		<feature id="org.jkiss.dbeaver.rcp.feature" version="2.1.18" url="features/org.jkiss.dbeaver.rcp.feature_2.1.18/">
+		</feature>
+		<feature id="org.jkiss.dbeaver.ce.feature" version="3.7.8" url="features/org.jkiss.dbeaver.ce.feature_3.7.8/" plugin-identifier="org.jkiss.dbeaver.core.application">
+		</feature>
+		<feature id="org.jkiss.dbeaver.ext.db2.feature" version="2.1.29" url="features/org.jkiss.dbeaver.ext.db2.feature_2.1.29/" plugin-identifier="org.jkiss.dbeaver.ext.db2">
+		</feature>
+		<feature id="org.jkiss.dbeaver.ext.exasol.feature" version="1.0.2" url="features/org.jkiss.dbeaver.ext.exasol.feature_1.0.2/" plugin-identifier="org.jkiss.dbeaver.ext.exasol">
+		</feature>
+		<feature id="org.jkiss.dbeaver.ext.wmi.feature" version="2.0.46" url="features/org.jkiss.dbeaver.ext.wmi.feature_2.0.46/" plugin-identifier="org.jkiss.dbeaver.ext.wmi">
+		</feature>
+		<feature id="org.jkiss.dbeaver.core.feature" version="3.7.8" url="features/org.jkiss.dbeaver.core.feature_3.7.8/" plugin-identifier="org.jkiss.dbeaver.core">
+		</feature>
+		<feature id="org.jkiss.dbeaver.ext.oracle.feature" version="2.1.29" url="features/org.jkiss.dbeaver.ext.oracle.feature_2.1.29/" plugin-identifier="org.jkiss.dbeaver.ext.oracle">
+		</feature>
+		<feature id="org.jkiss.dbeaver.standalone.feature" version="3.7.8" url="features/org.jkiss.dbeaver.standalone.feature_3.7.8/" plugin-identifier="org.jkiss.dbeaver.core.application">
+		</feature>
+	</site>
+</config>
